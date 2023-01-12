@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=jose-uchoa&color=FF7F50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
-<a href="#"><img width="29.50%" height="auto" align="right" src="https://user-images.githubusercontent.com/74518126/178362933-9bcd17f3-5715-4118-ac4a-d0a8394c8f8d.png" /></a>
+<a href="#"><img width="25%" height="auto" align="right" src="https://user-images.githubusercontent.com/74518126/212203705-6a6522c0-e777-42d9-b886-417b38562748.png" /></a>
 
 ## Eu sou Jose Uchoa 💪🏼
 > **Bem feito é melhor do que bem dito.**
@@ -59,10 +59,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 
-##
-
-<div>
-<a href="https://github.com/jose-uchoa">
-<img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-uchoa&layout=compact&langs_count=7&theme=dracula"/>
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=jose-uchoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
