@@ -10,8 +10,8 @@
 
 - 📓 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Universidade Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como **Técnico Em Eletrotécnica Sênior** na <a href="https://mastercoin.com.br" target="blank">MasterCoin</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Python para Desenvolvimento Back-End**.
+- 💼 &nbsp; Cursando **Python Developer** na <a href="https://ebac.art.br/" target="blank">Ebac</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Python para Desenvolvimento Web e de Software**.
 - 🗃️ &nbsp; Conheça meus projetos que estão disponíveis aqui nos repositórios do GitHub e acompanhe meu desenvolvimento.
 
 ### Onde me encontrar:
