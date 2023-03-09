@@ -4,7 +4,7 @@
 <a href="#"><img width="25%" height="auto" align="right" src="https://user-images.githubusercontent.com/74518126/212203705-6a6522c0-e777-42d9-b886-417b38562748.png" /></a>
 
 ## Eu sou José Uchoa 💪🏼
-> **Bem feito é melhor do que bem dito.**
+> **Full Stack Python Developer**
 
 ## Sou um Entusiasta de Tecnologia!!
 
