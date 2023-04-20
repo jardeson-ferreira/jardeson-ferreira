@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jose-uchoa&color=FF7F50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
-<a href="#"><img width="25%" height="auto" align="right" src="https://user-images.githubusercontent.com/74518126/212203705-6a6522c0-e777-42d9-b886-417b38562748.png" /></a>
 
 ## Eu sou José Uchoa 💪🏼
 > **Python Developer**
