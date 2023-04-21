@@ -26,13 +26,13 @@
 ### Tecnologias:
 
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-444444?style=flat&logo=flask&logoColor=2596ed)
-![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker)
+![Flask](https://img.shields.io/badge/-Flask-444444?style=flat&logo=flask&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
 ![APIs](https://custom-icon-badges.demolab.com/badge/-REST%20APIs-444444?logo=rest-api)
 ![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-444444?logo=postgres)
 ![NodeJs](https://custom-icon-badges.demolab.com/badge/-Node.js-444444?logo=nodejs&logoColor=f7df1f)
-![ReactJs](https://custom-icon-badges.demolab.com/badge/-React.js-444444?logo=reactjs&logoColor=eeeeee)
+![ReactJs](https://custom-icon-badges.demolab.com/badge/-React.js-444444?logo=reactjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat&logo=CSS3&logoColor=1572B6)
