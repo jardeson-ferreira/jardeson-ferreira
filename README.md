@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
 
 ## Eu sou José Uchoa
-> **Python Developer**
+> **Desenvolvedor Back-End**
 
 ## Sou um Entusiasta de Tecnologia!!
 
 - 📓 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Universidade Estácio de Sá</a>.
-- 📚 &nbsp; Cursando **Python Developer** na <a href="https://ebac.art.br/" target="blank">Ebac</a>.
+- 📚 &nbsp; Cursando **Desenvolvedor Back-End Python** na <a href="https://ebac.art.br/" target="blank">Ebac</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Python para Desenvolvimento Web e de Software**.
 - 🗃️ &nbsp; Conheça meus projetos que estão disponíveis aqui nos repositórios do GitHub e acompanhe meu desenvolvimento.
 
@@ -26,16 +26,17 @@
 ### Tecnologias:
 
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-444444?style=flat&logo=flask&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
-![APIs](https://custom-icon-badges.demolab.com/badge/-REST%20APIs-444444?logo=rest-api)
-![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-444444?logo=postgres)
-![NodeJs](https://custom-icon-badges.demolab.com/badge/-Node.js-444444?logo=nodejs&logoColor=f7df1f)
-![ReactJs](https://custom-icon-badges.demolab.com/badge/-React.js-444444?logo=reactjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
+![ReactJs](https://custom-icon-badges.demolab.com/badge/-React.js-444444?logo=reactjs)
+![NodeJs](https://custom-icon-badges.demolab.com/badge/-Node.js-444444?logo=nodejs&logoColor=f7df1f)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat&logo=CSS3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-444444?style=flat&logo=php)
+![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
+![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-444444?logo=postgres)
+![APIs](https://custom-icon-badges.demolab.com/badge/-REST%20API-444444?logo=rest-api)
 
 ### DevOps:
 
@@ -46,9 +47,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-444444?style=flat&logo=pycharm&logoColor=gold)
-![Jupyter](https://img.shields.io/badge/-Jupyter-444444?style=flat&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-444444?style=flat&logo=googlecolab)
-![Trello](https://img.shields.io/badge/-Trello-444444?style=flat&logo=trello&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
+![Poetry](https://img.shields.io/badge/-Poetry-444444?style=flat&logo=poetry)
+![cmd](https://custom-icon-badges.demolab.com/badge/-Command_Line-444444?logo=cmd)
 
 ### Sistemas Operacionais:
 
