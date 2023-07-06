@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
 
 ## Eu sou José Uchoa
-> **Desenvolvedor Back-End**
+> **Desenvolvedor Back-end**
 
 ## Sou um Entusiasta de Tecnologia!!
 
