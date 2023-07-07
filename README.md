@@ -10,7 +10,7 @@
 - 📓 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Universidade Estácio de Sá</a>.
 - 📚 &nbsp; Cursando **Desenvolvedor Back-end Python** na <a href="https://ebac.art.br/" target="blank">Ebac</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Python para Desenvolvimento Web e de Software**.
+- 🌱 &nbsp; Aprendendo mais sobre **Python para Desenvolvimento Web e de Softwares**.
 - 🗃️ &nbsp; Conheça meus projetos que estão disponíveis aqui nos repositórios do GitHub e acompanhe meu desenvolvimento.
 
 ### Onde me encontrar:
