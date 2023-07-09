@@ -50,6 +50,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
 ![Poetry](https://img.shields.io/badge/-Poetry-444444?style=flat&logo=poetry)
 ![cmd](https://custom-icon-badges.demolab.com/badge/-Command_Line-444444?logo=cmd)
+![Postman](https://img.shields.io/badge/-Postman-444444?style=flat&logo=postman)
 
 ### Sistemas Operacionais:
 
