@@ -40,17 +40,18 @@
 
 ### DevOps:
 
+![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 
 ### Ferramentas de Desenvolvimento:
 
+![Postman](https://img.shields.io/badge/-Postman-444444?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-444444?style=flat&logo=insomnia)
+![Poetry](https://img.shields.io/badge/-Poetry-444444?style=flat&logo=poetry)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-444444?style=flat&logo=pycharm&logoColor=gold)
-![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
-![Poetry](https://img.shields.io/badge/-Poetry-444444?style=flat&logo=poetry)
 ![cmd](https://custom-icon-badges.demolab.com/badge/-Command_Line-444444?logo=cmd)
-![Postman](https://img.shields.io/badge/-Postman-444444?style=flat&logo=postman)
 
 ### Sistemas Operacionais:
 
