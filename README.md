@@ -43,6 +43,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
+![Github_Actions](https://img.shields.io/badge/-GitHub_Actions-444444?style=flat&logo=github-actions)
 
 ### Ferramentas de Desenvolvimento:
 
