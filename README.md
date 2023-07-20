@@ -44,6 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Github_Actions](https://img.shields.io/badge/-GitHub_Actions-444444?style=flat&logo=github-actions)
+![CodeFactor](https://img.shields.io/badge/-CodeFactor-444444?style=flat&logo=codefactor)
 
 ### Ferramentas de Desenvolvimento:
 
