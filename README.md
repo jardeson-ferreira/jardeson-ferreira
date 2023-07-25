@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
 
 ## Eu sou José Uchôa
-> **Desenvolvedor Back-end**
+> **Desenvolvedor Backend Python**
 
 ## Sou um entusiasta de tecnologia!!
 
 - 📓 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Universidade Estácio de Sá</a>.
-- 📚 &nbsp; Cursando **Desenvolvedor Back-end Python** na <a href="https://ebac.art.br/" target="blank">Ebac</a>.
+- 📚 &nbsp; Cursando **Desenvolvedor Backend Python** na <a href="https://ebac.art.br/" target="blank">Ebac</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Python para Desenvolvimento Web e de Softwares**.
 - 🗃️ &nbsp; Conheça meus projetos que estão disponíveis aqui nos repositórios do GitHub e acompanhe meu desenvolvimento.
 
