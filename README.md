@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
 
-## Eu sou José Uchôa
+## Olá, eu sou José Uchôa
 > **Desenvolvedor Backend Python**
 
 ## Sou um entusiasta de tecnologia!!
@@ -28,21 +28,19 @@
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-444444?style=flat&logo=flask&logoColor=fff)
+![APIs](https://custom-icon-badges.demolab.com/badge/-REST%20API-444444?logo=rest-api)
+![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-444444?logo=postgres)
+![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
-![ReactJs](https://custom-icon-badges.demolab.com/badge/-React.js-444444?logo=reactjs)
-![NodeJs](https://custom-icon-badges.demolab.com/badge/-Node.js-444444?logo=nodejs&logoColor=f7df1f)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat&logo=CSS3&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-444444?style=flat&logo=php)
-![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-444444?logo=postgres)
-![APIs](https://custom-icon-badges.demolab.com/badge/-REST%20API-444444?logo=rest-api)
 
 ### DevOps:
 
 ![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=docker&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-Github-444444?style=flat&logo=github)
 ![Github_Actions](https://img.shields.io/badge/-GitHub_Actions-444444?style=flat&logo=github-actions)
 ![CodeFactor](https://img.shields.io/badge/-CodeFactor-444444?style=flat&logo=codefactor)
 
