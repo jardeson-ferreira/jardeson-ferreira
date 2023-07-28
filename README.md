@@ -7,7 +7,7 @@
 
 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Universidade Estácio de Sá</a>
 <br>
-🏆 &nbsp; Formado e com certificação em **"Desenvolvedor Backend Python"** pela <a href="https://ebac.art.br/" target="blank">Ebac</a>.
+🏆 &nbsp; Formado e com certificação em **Desenvolvedor Backend Python** pela <a href="https://ebac.art.br/" target="blank">Ebac</a>.
 
 ### Onde me encontrar:
            
