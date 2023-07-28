@@ -5,9 +5,10 @@
 ## Hello, I'm José Uchôa
 > **Python Backend Developer**
 
+🏆 &nbsp; Graduated and certified as a **Python Backend Developer** by <a href="https://ebac.art.br/" target="blank">Ebac</a>.
+<br>
 🎓 &nbsp; Currently studying **Systems Analysis and Development** at <a href="https://estacio.br" target="blank">Estácio de Sá.</a>
 <br>
-🏆 &nbsp; Graduated and certified as a **Python Backend Developer** by <a href="https://ebac.art.br/" target="blank">Ebac</a>.
 
 ### Where to find me:
            
