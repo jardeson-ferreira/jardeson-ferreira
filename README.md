@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=jose-uchoa&color=FF7F50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=26&color=F37021&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+Github+profile!!)](https://git.io/typing-svg)
 
-## Olá, eu sou José Uchôa
-> **Desenvolvedor Backend Python**
+## Hello, I'm José Uchôa
+> **Python Backend Developer**
 
-🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Estácio de Sá.</a>
+🎓 &nbsp; Currently studying **Systems Analysis and Development** at <a href="https://estacio.br" target="blank">Estácio de Sá.</a>
 <br>
-🏆 &nbsp; Formado e com certificação em **Desenvolvedor Backend Python** pela <a href="https://ebac.art.br/" target="blank">Ebac</a>.
+🏆 &nbsp; Graduated and certified as a **Python Backend Developer** by <a href="https://ebac.art.br/" target="blank">Ebac</a>.
 
-### Onde me encontrar:
+### Where to find me:
            
 <div>
 <a href="https://www.linkedin.com/in/jose-uchoa" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-444444?style=flat&logo=linkedin&logoColor=white" target="blank"></a>
@@ -19,7 +19,7 @@
 
 <h2> Skills :rocket: </h2>
 
-### Tecnologias:
+### Technologies:
 
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
@@ -40,7 +40,7 @@
 ![Github_Actions](https://img.shields.io/badge/-GitHub_Actions-444444?style=flat&logo=github-actions)
 ![CodeFactor](https://img.shields.io/badge/-CodeFactor-444444?style=flat&logo=codefactor)
 
-### Ferramentas de Desenvolvimento:
+### Development Tools:
 
 ![Postman](https://img.shields.io/badge/-Postman-444444?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-444444?style=flat&logo=insomnia)
@@ -49,7 +49,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-444444?style=flat&logo=pycharm&logoColor=gold)
 ![cmd](https://custom-icon-badges.demolab.com/badge/-Command_Line-444444?logo=cmd)
 
-### Sistemas Operacionais:
+### Operating Systems:
 
 ![Windows](https://img.shields.io/badge/-Windows-444444?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=linux)
