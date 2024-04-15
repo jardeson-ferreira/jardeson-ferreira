@@ -14,7 +14,6 @@
            
 <div>
 <a href="https://www.linkedin.com/in/jose-uchoa" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-444444?style=flat&logo=linkedin&logoColor=white" target="blank"></a>
-<a href="https://uchoatech.com" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-uchoatech.com-444444?style=flat&logo=favicon-uchoatech" target="blank"></a>
 <a href = "mailto:j-uchoa@hotmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-444444?style=flat&logo=mail&logoColor=white" target="blank"></a>
 </div>
 
