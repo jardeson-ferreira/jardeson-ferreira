@@ -22,9 +22,8 @@
 ### Technologies:
 
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
+![Django](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-444444?style=flat&logo=flask&logoColor=fff)
-![APIs](https://custom-icon-badges.demolab.com/badge/-REST%20API-444444?logo=rest-api)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-444444?logo=postgres)
 ![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
@@ -38,12 +37,10 @@
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-444444?style=flat&logo=github)
 ![Github_Actions](https://img.shields.io/badge/-GitHub_Actions-444444?style=flat&logo=github-actions)
-![CodeFactor](https://img.shields.io/badge/-CodeFactor-444444?style=flat&logo=codefactor)
 
 ### Development Tools:
 
 ![Postman](https://img.shields.io/badge/-Postman-444444?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-444444?style=flat&logo=insomnia)
 ![Poetry](https://img.shields.io/badge/-Poetry-444444?style=flat&logo=poetry)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-444444?style=flat&logo=pycharm&logoColor=gold)
