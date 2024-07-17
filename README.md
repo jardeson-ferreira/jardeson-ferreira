@@ -5,8 +5,8 @@
 
 <h6 align="left">
   <b>
-    <a href="https://www.linkedin.com/in/jose-uchoa" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-4072b9?style=flat&logo=linkedin&logoColor=white" target="blank"></a>&nbsp
-    <a href = "mailto:jardesonnferreira@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/E--mail_de_contato-4072b9?style=flat&logo=mail&logoColor=white" target="blank"></a>
+    <a href="https://www.linkedin.com/in/jose-uchoa" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-393939?style=flat&logo=linkedin&logoColor=white" target="blank"></a>&nbsp
+    <a href = "mailto:jardesonnferreira@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/E--mail_de_contato-393939?style=flat&logo=mail&logoColor=white" target="blank"></a>
   </b>
 </h6>
 
