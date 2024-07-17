@@ -57,4 +57,4 @@ if __name__ == '__main__':
 
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-444444?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=linux)
-![MacOS](https://img.shields.io/badge/-MacOS-444444?style=flat&logo=macos)
+![MacOS](https://img.shields.io/badge/-MacOS-444444?style=flat&logo=apple)
