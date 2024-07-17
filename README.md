@@ -5,7 +5,7 @@
 
 <h6 align="left">
   <b>
-    <a href = "mailto:jardesonnferreira@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/E--mail_para_contato-393939?style=flat&logo=mail&logoColor=white" target="blank"></a>
+    <a href = "mailto:jardesonnferreira@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/E--mail_para_contato-407bb4?style=flat&logo=mail&logoColor=white" target="blank"></a>
   </b>
 </h6>
 
