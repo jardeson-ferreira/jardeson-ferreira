@@ -34,7 +34,6 @@ if __name__ == '__main__':
 ![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-444444?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat&logo=CSS3&logoColor=1572B6)
 
@@ -47,9 +46,9 @@ if __name__ == '__main__':
 
 ### Ferramentas de Desenvolvimento:
 
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual_Studio_Code-444444?logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-444444?style=flat&logo=postman)
 ![Poetry](https://img.shields.io/badge/-Poetry-444444?style=flat&logo=poetry)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual_Studio_Code-444444?logo=visual-studio-code)
 ![cmd](https://custom-icon-badges.demolab.com/badge/-Command_Line-444444?logo=cmd)
 
 ### Sistemas Operacionais:
