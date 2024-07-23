@@ -30,8 +30,10 @@ if __name__ == '__main__':
 
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-444444?style=flat&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
+![Express.js](https://custom-icon-badges.demolab.com/badge/-Express.js-444444?logo=express-js)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-444444?logo=postgres)
 ![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-444444?logo=mysqldb)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat&logo=HTML5)
