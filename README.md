@@ -51,7 +51,6 @@ if __name__ == '__main__':
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual_Studio_Code-444444?logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-444444?style=flat&logo=postman)
 ![Poetry](https://img.shields.io/badge/-Poetry-444444?style=flat&logo=poetry)
-![cmd](https://custom-icon-badges.demolab.com/badge/-Command_Line-444444?logo=cmd)
 
 ### Sistemas Operacionais:
 
