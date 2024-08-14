@@ -9,7 +9,7 @@
   </b>
 </h6>
 
-> Sou graduado e certificado como **Desenvolvedor Backend Python** pela <a href="https://ebac.art.br/" target="blank">Ebac</a> e atualmente cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Estácio de Sá.</a>
+> Sou graduado e certificado como **Desenvolvedor Python** pela <a href="https://ebac.art.br/" target="blank">Ebac</a> e atualmente cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Estácio de Sá.</a>
 
 ```python
 class JardesonFerreira():
