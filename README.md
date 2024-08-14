@@ -9,14 +9,14 @@
   </b>
 </h6>
 
-> Sou graduado e certificado como **Desenvolvedor Python** pela <a href="https://ebac.art.br/" target="blank">Ebac</a> e atualmente cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Estácio de Sá.</a>
+> Sou graduado e certificado como **Desenvolvedor Back-End Python** pela <a href="https://ebac.art.br/" target="blank">Ebac</a> e atualmente cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Estácio de Sá.</a>
 
 ```python
 class JardesonFerreira():
     
   def __init__(self):
     self.name = "Jardeson Ferreira";
-    self.occupation = "Desenvolvedor Backend Python";
+    self.occupation = "Desenvolvedor Python";
     self.location = "Rio de Janeiro, Brasil";
   
   def __str__(self):
